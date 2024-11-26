@@ -1,0 +1,4 @@
+https://app.pluralsight.com/library/courses/cpp-fundamentals
+
+Updated course for C++17:
+https://app.pluralsight.com/library/courses/cplusplus-fundamentals-c17
